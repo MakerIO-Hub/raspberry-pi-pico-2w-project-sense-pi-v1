@@ -2,6 +2,9 @@
 
 Sense Pi is a compact and highly capable desktop smart assistant based on the **Raspberry Pi Pico 2W**, designed to operate in a Do-It-Yourself Shield configuration. With its advanced sensor array, uninterruptible power supply (UPS) feature, and internet connectivity, it functions as both an intelligent information dashboard and a portable measurement laboratory.
 
+- Download 3d model .stl files from here: <https://drive.google.com/file/d/1b46wFbFoVCOfkfn_a2hVJm-7ElLdiMFr/view?usp=sharing>
+- Step by Step tutorial on youtube: <https://youtu.be/Wzp7f1rBWqg>
+
 ## 1\. Hardware and Components
 
 The project features a modular architecture. All components used in the build are categorized below:
