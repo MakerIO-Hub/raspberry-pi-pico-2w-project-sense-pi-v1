@@ -176,7 +176,7 @@ This guide provides a step-by-step walkthrough to flash the MicroPython firmware
 - Right-click on your project folders (such as the lib library folder, asset folders, and icons) and choose **"Upload to /"**.
 - Repeat this for all supporting Python files and asset structures to mirror them onto the Pico's root storage.
 
-### Step 5: Setting Up Auto-Start ([main.py](http://main.py))
+### Step 5: Setting Up Auto-Start main.py
 
 - Locate the primary application script that initializes your UI layout (e.g., sensepi.py or app.py).
 - Rename this specific startup file to exactly **main.py**.
